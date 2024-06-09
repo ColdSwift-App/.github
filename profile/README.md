@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#tambahin isinya kaya id tim, nama aplikasi, tema, nama anggota dll gitu
+#tambahin isinya
 
-## Team ID : LUPA
+## Team ID : C241-PS244
 
 ## Team Member
 
