@@ -2,8 +2,9 @@
 
 #tambahin isinya kaya id tim, nama aplikasi, tema, nama anggota dll gitu
 
+## Team ID : LUPA
 
-# Participant Information
+## Team Member
 
 | No | ID              | Name                           | University                          | Learning           |
 |----|-----------------|--------------------------------|-------------------------------------|--------------------|
