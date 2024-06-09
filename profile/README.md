@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+#tambahin isinya kaya id tim, nama aplikasi, tema, nama anggota dll gitu
+
 <!--
 
 **Here are some ideas to get you started:**
